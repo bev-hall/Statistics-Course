@@ -7,7 +7,7 @@
 
 ## Welcome
 
-- My name is ...
+- My name is Professor Hall
 - Office Hours:
 - Textbook:
 
