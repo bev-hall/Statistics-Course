@@ -18,7 +18,7 @@
 
 * Topic: Welcome to Stats 101
 * Lesson: [What is stats?](https://dtkaplan.shinyapps.io/Lesson_first_day_births/)
-* Reading: Textbook Chap 1, pp. 14-19
+* Reading: Textbook Chap 1, pp. 14-19*********
 
 
 ### Monday Sept 10
