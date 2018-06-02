@@ -8,8 +8,8 @@
 ## Welcome
 
 - My name is Professor B. Hall
-- Office Hours:
-- Textbook:
+- Office Hours: 10-12:15
+- Textbook: Beginning Stats
 
 
 ## Daily schedule: Fall 2018
